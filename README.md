@@ -1,69 +1,60 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Asharudheen
 
 ### 🚀 Mobile App Developer | Flutter & Android Specialist
 
-I’m a passionate mobile app developer with hands-on experience building modern, high-performance apps using **Flutter (Dart)** and **Native Android (Kotlin & Java)**. I specialize in crafting intuitive UIs, integrating robust backend services using **Firebase**, and ensuring pixel-perfect cross-platform experiences.
+I'm a passionate and results-driven mobile app developer with professional experience building scalable, beautiful, and high-performance apps using **Flutter (Dart)** and **Native Android (Kotlin & Java)**. I also leverage **Firebase** for real-time features, authentication, messaging, and analytics.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**
-- 🔹 Flutter & Dart
-- 🔹 Kotlin & Java (Android)
-- 🔹 Firebase (Auth, Firestore, Messaging, Analytics, Functions)
-
-**Tools & Libraries:**
-- Android Jetpack (ViewModel, LiveData, Navigation)
-- Jetpack Compose
-- Provider, Bloc, Riverpod
-- Stripe / Google Pay
-- Retrofit, Room, Hilt
-- Git & GitHub
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📱 What I Do
 
-- 🔧 Build cross-platform mobile apps with Flutter
-- 📲 Develop native Android apps with Kotlin & Java
-- ☁️ Integrate Firebase for real-time backend services
-- 🎨 Design responsive, RTL-compatible UIs
-- 🧪 Write clean, maintainable, testable code
-- 🔔 Push notifications, payment integration, deep linking
+- 🚀 Build cross-platform apps using **Flutter**
+- ⚙️ Develop native Android apps with **Kotlin** & **Java**
+- ☁️ Integrate full Firebase stack (Auth, Firestore, Messaging)
+- 💳 Implement Google Pay, Stripe, and wallet systems
+- 🧪 Follow clean architecture and MVVM/BLoC patterns
+- 🌐 Localize apps with **RTL (Arabic)** support
 
 ---
 
 ## 📌 Featured Projects
 
-- **🛠️ Service Booking App** – Flutter + Firebase  
-  Book services, track orders, pay with Google Pay or Stripe. Push notifications + promotional code support.
+- **🛠️ Service Booking App**  
+  Flutter + Firebase | Multi-role login, push notifications, payments, rating & reviews.
 
-- **💬 Real-Time Chat App** – Kotlin + Firebase  
-  Secure 1:1 chat with Firebase Auth, Firestore, FCM, and real-time message updates.
+- **📦 E-Commerce Platform**  
+  Flutter | Clean UI, cart, orders, promotional codes, Google Pay.
 
-- **🛒 E-Commerce App** – Flutter  
-  Fully-featured shopping app with product search, cart, and order tracking.
+- **💬 Real-Time Chat App**  
+  Kotlin + Firebase | Auth, Firestore chat rooms, FCM push support.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asharudheen&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharudheen&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://yourportfolio.com) *(optional)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asharudheen-kc-30a79813b)
+[![Gmail](https://img.shields.io/badge/Gmail-asharudheen.kmp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asharudheen.kmp@gmail.com)
 
 ---
 
-> “The best way to predict the future is to build it.” – Alan Kay
-
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
