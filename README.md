@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **asharudheen.kmp@gmail.com**
 
+- 📄 Know about my experiences [https://azharkc.github.io/resume/Asharudheen_Kc_CV.pdf](https://azharkc.github.io/resume/Asharudheen_Kc_CV.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
